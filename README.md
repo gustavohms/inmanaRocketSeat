@@ -1,4 +1,4 @@
-# Inmana
+# Inmana - RocketSeat
 
 To start your Phoenix server:
 
